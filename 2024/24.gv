@@ -1,0 +1,890 @@
+digraph {
+	nww [label="nww
+y30 op_and x30" color=red]
+	nww -> y30
+	nww -> x30
+	smg [label="smg
+vbw op_and qhp" color=red]
+	smg -> vbw
+	smg -> qhp
+	ngj [label="ngj
+mwj op_or pmq" color=green]
+	ngj -> mwj
+	ngj -> pmq
+	wrc [label="wrc
+x19 op_and y19" color=red]
+	wrc -> x19
+	wrc -> y19
+	z13 [label="z13
+hnt op_xor wnj" color=blue]
+	z13 -> hnt
+	z13 -> wnj
+	z41 [label="z41
+dsb op_xor rgt" color=blue]
+	z41 -> dsb
+	z41 -> rgt
+	fkm [label="fkm
+hqg op_or cff" color=green]
+	fkm -> hqg
+	fkm -> cff
+	z25 [label="z25
+tsw op_xor vst" color=blue]
+	z25 -> tsw
+	z25 -> vst
+	smm [label="smm
+x14 op_and y14" color=red]
+	smm -> x14
+	smm -> y14
+	fhw [label="fhw
+npr op_or jnh" color=green]
+	fhw -> npr
+	fhw -> jnh
+	fmk [label="fmk
+stg op_and trp" color=red]
+	fmk -> stg
+	fmk -> trp
+	rkt [label="rkt
+y05 op_and x05" color=red]
+	rkt -> y05
+	rkt -> x05
+	gsg [label="gsg
+y22 op_and x22" color=red]
+	gsg -> y22
+	gsg -> x22
+	wmd [label="wmd
+ftt op_and mcb" color=red]
+	wmd -> ftt
+	wmd -> mcb
+	vdw [label="vdw
+ngq op_and cgm" color=red]
+	vdw -> ngq
+	vdw -> cgm
+	rdt [label="rdt
+kpt op_and prr" color=red]
+	rdt -> kpt
+	rdt -> prr
+	z33 [label="z33
+rqf op_xor grt" color=blue]
+	z33 -> rqf
+	z33 -> grt
+	nkc [label="nkc
+x24 op_xor y24" color=blue]
+	nkc -> x24
+	nkc -> y24
+	hkt [label="hkt
+hbq op_or twj" color=green]
+	hkt -> hbq
+	hkt -> twj
+	wts [label="wts
+rkt op_or ckj" color=green]
+	wts -> rkt
+	wts -> ckj
+	pmq [label="pmq
+x04 op_and y04" color=red]
+	pmq -> x04
+	pmq -> y04
+	bpn [label="bpn
+y16 op_and x16" color=red]
+	bpn -> y16
+	bpn -> x16
+	prr [label="prr
+x08 op_xor y08" color=blue]
+	prr -> x08
+	prr -> y08
+	z09 [label="z09
+kmk op_xor qvw" color=blue]
+	z09 -> kmk
+	z09 -> qvw
+	cgm [label="cgm
+jwd op_or ssg" color=green]
+	cgm -> jwd
+	cgm -> ssg
+	hsf [label="hsf
+mdm op_or cwb" color=green]
+	hsf -> mdm
+	hsf -> cwb
+	thv [label="thv
+y03 op_xor x03" color=blue]
+	thv -> y03
+	thv -> x03
+	kpt [label="kpt
+jdb op_or btb" color=green]
+	kpt -> jdb
+	kpt -> btb
+	jnh [label="jnh
+kvp op_and pcv" color=red]
+	jnh -> kvp
+	jnh -> pcv
+	tmk [label="tmk
+fff op_or pgr" color=green]
+	tmk -> fff
+	tmk -> pgr
+	z34 [label="z34
+hkt op_xor qrn" color=blue]
+	z34 -> hkt
+	z34 -> qrn
+	bfq [label="bfq
+ntr op_xor gcc" color=blue]
+	bfq -> ntr
+	bfq -> gcc
+	ngq [label="ngq
+y37 op_xor x37" color=blue]
+	ngq -> y37
+	ngq -> x37
+	pnj [label="pnj
+cbj op_and fnf" color=red]
+	pnj -> cbj
+	pnj -> fnf
+	kvp [label="kvp
+btw op_or gsg" color=green]
+	kvp -> btw
+	kvp -> gsg
+	z26 [label="z26
+cbj op_xor fnf" color=blue]
+	z26 -> cbj
+	z26 -> fnf
+	z20 [label="z20
+scv op_xor mbp" color=blue]
+	z20 -> scv
+	z20 -> mbp
+	spj [label="spj
+hhd op_and qrt" color=red]
+	spj -> hhd
+	spj -> qrt
+	mbp [label="mbp
+y20 op_xor x20" color=blue]
+	mbp -> y20
+	mbp -> x20
+	z00 [label="z00
+y00 op_xor x00" color=blue]
+	z00 -> y00
+	z00 -> x00
+	tbg [label="tbg
+swn op_and jkm" color=red]
+	tbg -> swn
+	tbg -> jkm
+	wgm [label="wgm
+kps op_or wvq" color=green]
+	wgm -> kps
+	wgm -> wvq
+	dcp [label="dcp
+x43 op_and y43" color=red]
+	dcp -> x43
+	dcp -> y43
+	z44 [label="z44
+tfj op_xor bcg" color=blue]
+	z44 -> tfj
+	z44 -> bcg
+	vrh [label="vrh
+x06 op_xor y06" color=blue]
+	vrh -> x06
+	vrh -> y06
+	gbs [label="gbs
+y21 op_xor x21" color=blue]
+	gbs -> y21
+	gbs -> x21
+	stt [label="stt
+x04 op_xor y04" color=blue]
+	stt -> x04
+	stt -> y04
+	fnd [label="fnd
+x44 op_and y44" color=red]
+	fnd -> x44
+	fnd -> y44
+	qvw [label="qvw
+mkj op_or rdt" color=green]
+	qvw -> mkj
+	qvw -> rdt
+	z11 [label="z11
+nvc op_xor tgd" color=blue]
+	z11 -> nvc
+	z11 -> tgd
+	qdd [label="qdd
+hkt op_and qrn" color=red]
+	qdd -> hkt
+	qdd -> qrn
+	z06 [label="z06
+wts op_xor vrh" color=blue]
+	z06 -> wts
+	z06 -> vrh
+	z16 [label="z16
+hdg op_xor qpj" color=blue]
+	z16 -> hdg
+	z16 -> qpj
+	ckj [label="ckj
+ngj op_and pqj" color=red]
+	ckj -> ngj
+	ckj -> pqj
+	pgr [label="pgr
+x21 op_and y21" color=red]
+	pgr -> x21
+	pgr -> y21
+	svq [label="svq
+y22 op_xor x22" color=blue]
+	svq -> y22
+	svq -> x22
+	bng [label="bng
+y39 op_and x39" color=red]
+	bng -> y39
+	bng -> x39
+	tst [label="tst
+y11 op_and x11" color=red]
+	tst -> y11
+	tst -> x11
+	vvr [label="vvr
+kqm op_or vdw" color=green]
+	vvr -> kqm
+	vvr -> vdw
+	nhg [label="nhg
+y15 op_xor x15" color=blue]
+	nhg -> y15
+	nhg -> x15
+	wvq [label="wvq
+rfw op_and qnw" color=red]
+	wvq -> rfw
+	wvq -> qnw
+	jss [label="jss
+x18 op_xor y18" color=blue]
+	jss -> x18
+	jss -> y18
+	nts [label="nts
+jmh op_and pfb" color=red]
+	nts -> jmh
+	nts -> pfb
+	wnj [label="wnj
+fmk op_or dbr" color=green]
+	wnj -> fmk
+	wnj -> dbr
+	nmb [label="nmb
+y14 op_xor x14" color=blue]
+	nmb -> y14
+	nmb -> x14
+	hbq [label="hbq
+grt op_and rqf" color=red]
+	hbq -> grt
+	hbq -> rqf
+	mdg [label="mdg
+rrb op_or dpj" color=green]
+	mdg -> rrb
+	mdg -> dpj
+	gcc [label="gcc
+jcb op_or pnj" color=green]
+	gcc -> jcb
+	gcc -> pnj
+	stg [label="stg
+tst op_or jnn" color=green]
+	stg -> tst
+	stg -> jnn
+	jtb [label="jtb
+y43 op_xor x43" color=blue]
+	jtb -> y43
+	jtb -> x43
+	vrj [label="vrj
+x10 op_and y10" color=red]
+	vrj -> x10
+	vrj -> y10
+	rfv [label="rfv
+y36 op_xor x36" color=blue]
+	rfv -> y36
+	rfv -> x36
+	z18 [label="z18
+jss op_and mdg" color=red]
+	z18 -> jss
+	z18 -> mdg
+	z10 [label="z10
+wvn op_xor trw" color=blue]
+	z10 -> wvn
+	z10 -> trw
+	bfs [label="bfs
+y03 op_and x03" color=red]
+	bfs -> y03
+	bfs -> x03
+	mcs [label="mcs
+vrh op_and wts" color=red]
+	mcs -> vrh
+	mcs -> wts
+	bdp [label="bdp
+hnv op_or rbm" color=green]
+	bdp -> hnv
+	bdp -> rbm
+	z31 [label="z31
+y31 op_and x31" color=red]
+	z31 -> y31
+	z31 -> x31
+	fnf [label="fnf
+y26 op_xor x26" color=blue]
+	fnf -> y26
+	fnf -> x26
+	mkj [label="mkj
+x08 op_and y08" color=red]
+	mkj -> x08
+	mkj -> y08
+	gck [label="gck
+y34 op_and x34" color=red]
+	gck -> y34
+	gck -> x34
+	qnw [label="qnw
+x35 op_xor y35" color=blue]
+	qnw -> x35
+	qnw -> y35
+	qdw [label="qdw
+wnj op_and hnt" color=red]
+	qdw -> wnj
+	qdw -> hnt
+	vbw [label="vbw
+y32 op_xor x32" color=blue]
+	vbw -> y32
+	vbw -> x32
+	tsw [label="tsw
+y25 op_xor x25" color=blue]
+	tsw -> y25
+	tsw -> x25
+	qrn [label="qrn
+x34 op_xor y34" color=blue]
+	qrn -> x34
+	qrn -> y34
+	pqj [label="pqj
+y05 op_xor x05" color=blue]
+	pqj -> y05
+	pqj -> x05
+	hdg [label="hdg
+ckp op_or wbt" color=green]
+	hdg -> ckp
+	hdg -> wbt
+	pph [label="pph
+gcc op_and ntr" color=red]
+	pph -> gcc
+	pph -> ntr
+	rgt [label="rgt
+dnr op_or nhq" color=green]
+	rgt -> dnr
+	rgt -> nhq
+	pch [label="pch
+dhg op_or bpn" color=green]
+	pch -> dhg
+	pch -> bpn
+	nvc [label="nvc
+vrj op_or cvp" color=green]
+	nvc -> vrj
+	nvc -> cvp
+	z17 [label="z17
+pbr op_xor pch" color=blue]
+	z17 -> pbr
+	z17 -> pch
+	pcv [label="pcv
+x23 op_xor y23" color=blue]
+	pcv -> x23
+	pcv -> y23
+	hkh [label="hkh
+fqh op_xor ctc" color=blue]
+	hkh -> fqh
+	hkh -> ctc
+	dnr [label="dnr
+y40 op_and x40" color=red]
+	dnr -> y40
+	dnr -> x40
+	hnt [label="hnt
+x13 op_xor y13" color=blue]
+	hnt -> x13
+	hnt -> y13
+	hnv [label="hnv
+fkm op_and hvb" color=red]
+	hnv -> fkm
+	hnv -> hvb
+	mkq [label="mkq
+y28 op_xor x28" color=blue]
+	mkq -> y28
+	mkq -> x28
+	swn [label="swn
+hrh op_or vtn" color=green]
+	swn -> hrh
+	swn -> vtn
+	z12 [label="z12
+stg op_xor trp" color=blue]
+	z12 -> stg
+	z12 -> trp
+	ngb [label="ngb
+nkc op_and fhw" color=red]
+	ngb -> nkc
+	ngb -> fhw
+	z05 [label="z05
+ngj op_xor pqj" color=blue]
+	z05 -> ngj
+	z05 -> pqj
+	twj [label="twj
+x33 op_and y33" color=red]
+	twj -> x33
+	twj -> y33
+	rfw [label="rfw
+qdd op_or gck" color=green]
+	rfw -> qdd
+	rfw -> gck
+	z07 [label="z07
+swp op_xor fcs" color=blue]
+	z07 -> swp
+	z07 -> fcs
+	jwd [label="jwd
+rfv op_and wgm" color=red]
+	jwd -> rfv
+	jwd -> wgm
+	z45 [label="z45
+fnd op_or scp" color=green]
+	z45 -> fnd
+	z45 -> scp
+	z40 [label="z40
+vbm op_xor qqb" color=blue]
+	z40 -> vbm
+	z40 -> qqb
+	mkh [label="mkh
+x13 op_and y13" color=red]
+	mkh -> x13
+	mkh -> y13
+	btw [label="btw
+svq op_and tmk" color=red]
+	btw -> svq
+	btw -> tmk
+	rrb [label="rrb
+pbr op_and pch" color=red]
+	rrb -> pbr
+	rrb -> pch
+	z39 [label="z39
+hsf op_xor bng" color=blue]
+	z39 -> hsf
+	z39 -> bng
+	nwj [label="nwj
+x32 op_and y32" color=red]
+	nwj -> x32
+	nwj -> y32
+	qqb [label="qqb
+x40 op_xor y40" color=blue]
+	qqb -> x40
+	qqb -> y40
+	cwb [label="cwb
+y38 op_and x38" color=red]
+	cwb -> y38
+	cwb -> x38
+	z24 [label="z24
+fhw op_xor nkc" color=blue]
+	z24 -> fhw
+	z24 -> nkc
+	z08 [label="z08
+kpt op_xor prr" color=blue]
+	z08 -> kpt
+	z08 -> prr
+	dpj [label="dpj
+y17 op_and x17" color=red]
+	dpj -> y17
+	dpj -> x17
+	z42 [label="z42
+swn op_xor jkm" color=blue]
+	z42 -> swn
+	z42 -> jkm
+	nhq [label="nhq
+vbm op_and qqb" color=red]
+	nhq -> vbm
+	nhq -> qqb
+	z19 [label="z19
+pfb op_xor jmh" color=blue]
+	z19 -> pfb
+	z19 -> jmh
+	mdm [label="mdm
+vvr op_and crj" color=red]
+	mdm -> vvr
+	mdm -> crj
+	hvb [label="hvb
+y02 op_xor x02" color=blue]
+	hvb -> y02
+	hvb -> x02
+	vsd [label="vsd
+mkh op_or qdw" color=green]
+	vsd -> mkh
+	vsd -> qdw
+	hmt [label="hmt
+mdg op_xor jss" color=blue]
+	hmt -> mdg
+	hmt -> jss
+	ssg [label="ssg
+x36 op_and y36" color=red]
+	ssg -> x36
+	ssg -> y36
+	prp [label="prp
+csh op_or smm" color=green]
+	prp -> csh
+	prp -> smm
+	jqj [label="jqj
+y20 op_and x20" color=red]
+	jqj -> y20
+	jqj -> x20
+	ftt [label="ftt
+y29 op_xor x29" color=blue]
+	ftt -> y29
+	ftt -> x29
+	krb [label="krb
+y24 op_and x24" color=red]
+	krb -> y24
+	krb -> x24
+	z14 [label="z14
+vsd op_xor nmb" color=blue]
+	z14 -> vsd
+	z14 -> nmb
+	fcs [label="fcs
+x07 op_xor y07" color=blue]
+	fcs -> x07
+	fcs -> y07
+	kqm [label="kqm
+x37 op_and y37" color=red]
+	kqm -> x37
+	kqm -> y37
+	wvn [label="wvn
+y10 op_xor x10" color=blue]
+	wvn -> y10
+	wvn -> x10
+	z15 [label="z15
+nhg op_xor prp" color=blue]
+	z15 -> nhg
+	z15 -> prp
+	z36 [label="z36
+wgm op_xor rfv" color=blue]
+	z36 -> wgm
+	z36 -> rfv
+	vst [label="vst
+ngb op_or krb" color=green]
+	vst -> ngb
+	vst -> krb
+	ctc [label="ctc
+nww op_or spj" color=green]
+	ctc -> nww
+	ctc -> spj
+	qfq [label="qfq
+qvw op_and kmk" color=red]
+	qfq -> qvw
+	qfq -> kmk
+	z29 [label="z29
+mcb op_xor ftt" color=blue]
+	z29 -> mcb
+	z29 -> ftt
+	mwj [label="mwj
+stt op_and cmh" color=red]
+	mwj -> stt
+	mwj -> cmh
+	ckp [label="ckp
+prp op_and nhg" color=red]
+	ckp -> prp
+	ckp -> nhg
+	trp [label="trp
+y12 op_xor x12" color=blue]
+	trp -> y12
+	trp -> x12
+	npr [label="npr
+y23 op_and x23" color=red]
+	npr -> y23
+	npr -> x23
+	scv [label="scv
+nts op_or wrc" color=green]
+	scv -> nts
+	scv -> wrc
+	z43 [label="z43
+jtb op_xor bkf" color=blue]
+	z43 -> jtb
+	z43 -> bkf
+	tpm [label="tpm
+mbp op_and scv" color=red]
+	tpm -> mbp
+	tpm -> scv
+	sgt [label="sgt
+x01 op_xor y01" color=blue]
+	sgt -> x01
+	sgt -> y01
+	swp [label="swp
+mcs op_or jwh" color=green]
+	swp -> mcs
+	swp -> jwh
+	z28 [label="z28
+mkq op_xor bfq" color=blue]
+	z28 -> mkq
+	z28 -> bfq
+	rjt [label="rjt
+fqh op_and ctc" color=red]
+	rjt -> fqh
+	rjt -> ctc
+	z35 [label="z35
+rfw op_xor qnw" color=blue]
+	z35 -> rfw
+	z35 -> qnw
+	tgd [label="tgd
+x11 op_xor y11" color=blue]
+	tgd -> x11
+	tgd -> y11
+	rvq [label="rvq
+thv op_and bdp" color=red]
+	rvq -> thv
+	rvq -> bdp
+	jwh [label="jwh
+y06 op_and x06" color=red]
+	jwh -> y06
+	jwh -> x06
+	jcr [label="jcr
+y18 op_and x18" color=red]
+	jcr -> y18
+	jcr -> x18
+	pdc [label="pdc
+tpm op_or jqj" color=green]
+	pdc -> tpm
+	pdc -> jqj
+	z04 [label="z04
+stt op_xor cmh" color=blue]
+	z04 -> stt
+	z04 -> cmh
+	hqg [label="hqg
+x01 op_and y01" color=red]
+	hqg -> x01
+	hqg -> y01
+	trw [label="trw
+qfq op_or spq" color=green]
+	trw -> qfq
+	trw -> spq
+	z02 [label="z02
+fkm op_xor hvb" color=blue]
+	z02 -> fkm
+	z02 -> hvb
+	dsb [label="dsb
+x41 op_xor y41" color=blue]
+	dsb -> x41
+	dsb -> y41
+	rbm [label="rbm
+x02 op_and y02" color=red]
+	rbm -> x02
+	rbm -> y02
+	z21 [label="z21
+pdc op_xor gbs" color=blue]
+	z21 -> pdc
+	z21 -> gbs
+	cmh [label="cmh
+bfs op_or rvq" color=green]
+	cmh -> bfs
+	cmh -> rvq
+	dhg [label="dhg
+hdg op_and qpj" color=red]
+	dhg -> hdg
+	dhg -> qpj
+	fqh [label="fqh
+x31 op_xor y31" color=blue]
+	fqh -> x31
+	fqh -> y31
+	jgn [label="jgn
+vst op_and tsw" color=red]
+	jgn -> vst
+	jgn -> tsw
+	pbr [label="pbr
+y17 op_xor x17" color=blue]
+	pbr -> y17
+	pbr -> x17
+	qpj [label="qpj
+y16 op_xor x16" color=blue]
+	qpj -> y16
+	qpj -> x16
+	pfb [label="pfb
+hmt op_or jcr" color=green]
+	pfb -> hmt
+	pfb -> jcr
+	wbt [label="wbt
+y15 op_and x15" color=red]
+	wbt -> y15
+	wbt -> x15
+	z23 [label="z23
+kvp op_xor pcv" color=blue]
+	z23 -> kvp
+	z23 -> pcv
+	fjp [label="fjp
+x39 op_xor y39" color=blue]
+	fjp -> x39
+	fjp -> y39
+	jcb [label="jcb
+y26 op_and x26" color=red]
+	jcb -> y26
+	jcb -> x26
+	bcg [label="bcg
+x44 op_xor y44" color=blue]
+	bcg -> x44
+	bcg -> y44
+	jfp [label="jfp
+x42 op_and y42" color=red]
+	jfp -> x42
+	jfp -> y42
+	btb [label="btb
+y07 op_and x07" color=red]
+	btb -> y07
+	btb -> x07
+	jnn [label="jnn
+tgd op_and nvc" color=red]
+	jnn -> tgd
+	jnn -> nvc
+	grt [label="grt
+nwj op_or smg" color=green]
+	grt -> nwj
+	grt -> smg
+	jdb [label="jdb
+fcs op_and swp" color=red]
+	jdb -> fcs
+	jdb -> swp
+	z27 [label="z27
+vgg op_or pph" color=green]
+	z27 -> vgg
+	z27 -> pph
+	z38 [label="z38
+crj op_xor vvr" color=blue]
+	z38 -> crj
+	z38 -> vvr
+	cvp [label="cvp
+trw op_and wvn" color=red]
+	cvp -> trw
+	cvp -> wvn
+	tfj [label="tfj
+dcp op_or dmk" color=green]
+	tfj -> dcp
+	tfj -> dmk
+	z03 [label="z03
+bdp op_xor thv" color=blue]
+	z03 -> bdp
+	z03 -> thv
+	rqf [label="rqf
+y33 op_xor x33" color=blue]
+	rqf -> y33
+	rqf -> x33
+	qhp [label="qhp
+hkh op_or rjt" color=green]
+	qhp -> hkh
+	qhp -> rjt
+	fff [label="fff
+gbs op_and pdc" color=red]
+	fff -> gbs
+	fff -> pdc
+	z22 [label="z22
+svq op_xor tmk" color=blue]
+	z22 -> svq
+	z22 -> tmk
+	jmh [label="jmh
+x19 op_xor y19" color=blue]
+	jmh -> x19
+	jmh -> y19
+	scp [label="scp
+tfj op_and bcg" color=red]
+	scp -> tfj
+	scp -> bcg
+	kps [label="kps
+y35 op_and x35" color=red]
+	kps -> y35
+	kps -> x35
+	mcb [label="mcb
+qfw op_or pms" color=green]
+	mcb -> qfw
+	mcb -> pms
+	spq [label="spq
+y09 op_and x09" color=red]
+	spq -> y09
+	spq -> x09
+	csh [label="csh
+vsd op_and nmb" color=red]
+	csh -> vsd
+	csh -> nmb
+	qrt [label="qrt
+y30 op_xor x30" color=blue]
+	qrt -> y30
+	qrt -> x30
+	z01 [label="z01
+rjr op_xor sgt" color=blue]
+	z01 -> rjr
+	z01 -> sgt
+	z37 [label="z37
+ngq op_xor cgm" color=blue]
+	z37 -> ngq
+	z37 -> cgm
+	cff [label="cff
+rjr op_and sgt" color=red]
+	cff -> rjr
+	cff -> sgt
+	bkf [label="bkf
+tbg op_or jfp" color=green]
+	bkf -> tbg
+	bkf -> jfp
+	vtn [label="vtn
+rgt op_and dsb" color=red]
+	vtn -> rgt
+	vtn -> dsb
+	vgg [label="vgg
+x27 op_and y27" color=red]
+	vgg -> x27
+	vgg -> y27
+	dmk [label="dmk
+jtb op_and bkf" color=red]
+	dmk -> jtb
+	dmk -> bkf
+	jkm [label="jkm
+y42 op_xor x42" color=blue]
+	jkm -> y42
+	jkm -> x42
+	qfw [label="qfw
+x28 op_and y28" color=red]
+	qfw -> x28
+	qfw -> y28
+	hhd [label="hhd
+wmd op_or bsk" color=green]
+	hhd -> wmd
+	hhd -> bsk
+	tkf [label="tkf
+bng op_and hsf" color=red]
+	tkf -> bng
+	tkf -> hsf
+	kmk [label="kmk
+y09 op_xor x09" color=blue]
+	kmk -> y09
+	kmk -> x09
+	z32 [label="z32
+qhp op_xor vbw" color=blue]
+	z32 -> qhp
+	z32 -> vbw
+	cbj [label="cbj
+hcp op_or jgn" color=green]
+	cbj -> hcp
+	cbj -> jgn
+	dbr [label="dbr
+y12 op_and x12" color=red]
+	dbr -> y12
+	dbr -> x12
+	rjr [label="rjr
+y00 op_and x00" color=red]
+	rjr -> y00
+	rjr -> x00
+	crj [label="crj
+y38 op_xor x38" color=blue]
+	crj -> y38
+	crj -> x38
+	hrh [label="hrh
+y41 op_and x41" color=red]
+	hrh -> y41
+	hrh -> x41
+	bsk [label="bsk
+y29 op_and x29" color=red]
+	bsk -> y29
+	bsk -> x29
+	vbm [label="vbm
+tkf op_or fjp" color=green]
+	vbm -> tkf
+	vbm -> fjp
+	z30 [label="z30
+qrt op_xor hhd" color=blue]
+	z30 -> qrt
+	z30 -> hhd
+	hcp [label="hcp
+y25 op_and x25" color=red]
+	hcp -> y25
+	hcp -> x25
+	pms [label="pms
+bfq op_and mkq" color=red]
+	pms -> bfq
+	pms -> mkq
+	ntr [label="ntr
+x27 op_xor y27" color=blue]
+	ntr -> x27
+	ntr -> y27
+}

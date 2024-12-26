@@ -1,0 +1,12 @@
+# IDE files
+/.idea
+/.vscode
+
+# Input files
+*.txt
+
+# Generated files
+*.png
+
+# Python virtual environment
+.venv
